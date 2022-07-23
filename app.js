@@ -15,3 +15,5 @@ function clearClass() {
         slide.classList.remove('active')
     })
 }
+
+const a = 'a'
